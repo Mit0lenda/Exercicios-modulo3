@@ -1,4 +1,4 @@
-package br.com.alura.exercicios;
+package br.com.alura.exercicios.carro;
 
 public class TesteCarro {
     public static void main(String[] args) {

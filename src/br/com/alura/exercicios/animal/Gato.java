@@ -1,4 +1,4 @@
-package br.com.alura.exercicios;
+package br.com.alura.exercicios.animal;
 
 public class Gato extends Animal {
     @Override

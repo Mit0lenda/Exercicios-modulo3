@@ -1,18 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="42d47f17-6636-4a90-a296-5d44fdf69f66" name="Changes" comment="" />
+    <list default="true" id="42d47f17-6636-4a90-a296-5d44fdf69f66" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios-modulo3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/Calculadora/CalculadoraSalaRetangular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/Calculadora/CalculoGeometrico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/Calculadora/TesteSala.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/Calculavel/Calculavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/Calculavel/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/Calculavel/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/Calculavel/ProdutoFisico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/Calculavel/TesteCalculavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/ConversorTemperatura/ConversorTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/ConversorTemperatura/ConversorTemperaturaPadrao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/ConversorTemperatura/TesteTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/Tabuada/Tabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/Tabuada/TabuadaMultiplacacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/Tabuada/TesteTabuada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/Vendaval/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/Vendaval/Servico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/Vendaval/TesteVendavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/Vendaval/Vendaval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/animal/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/animal/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/animal/TestarAnimais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/banco/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/banco/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/banco/TesteBanco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/carro/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/carro/ModeloCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/carro/TesteCarro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/moeda/ConversorFinanceira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/moeda/ConversorMoeda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/moeda/TesteConversorMoedas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/primos/GeradorPrimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/primos/NumerosPrimos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/primos/TestePrimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/primos/VerificadorPrimo.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2j9yY70oV7FhF9Vh9zRH4obe3QQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,13 +76,121 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TestarAnimais.executor": "Run",
+    "Application.TesteBanco.executor": "Run",
+    "Application.TesteCalculavel.executor": "Run",
+    "Application.TesteCarro.executor": "Run",
+    "Application.TesteConversorMoedas.executor": "Run",
+    "Application.TestePrimo.executor": "Run",
+    "Application.TesteSala.executor": "Run",
+    "Application.TesteTabuada.executor": "Run",
+    "Application.TesteTemperatura.executor": "Run",
+    "Application.TesteVendavel.executor": "Run",
+    "Application.Unnamed.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.TesteVendavel">
+    <configuration name="TesteCalculavel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.exercicios.Calculavel.TesteCalculavel" />
+      <module name="Exercicios-modulo3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.exercicios.Calculavel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteCarro" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.exercicios.carro.TesteCarro" />
+      <module name="Exercicios-modulo3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteSala" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.exercicios.Calculadora.TesteSala" />
+      <module name="Exercicios-modulo3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.exercicios.Calculadora.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteTabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.exercicios.Tabuada.TesteTabuada" />
+      <module name="Exercicios-modulo3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.exercicios.Tabuada.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.exercicios.ConversorTemperatura.TesteTemperatura" />
+      <module name="Exercicios-modulo3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.exercicios.ConversorTemperatura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TesteVendavel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.exercicios.Vendaval.TesteVendavel" />
+      <module name="Exercicios-modulo3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.exercicios.Vendaval.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.TesteCarro" />
+      <item itemvalue="Application.TesteCalculavel" />
+      <item itemvalue="Application.TesteSala" />
+      <item itemvalue="Application.TesteTabuada" />
+      <item itemvalue="Application.TesteTemperatura" />
+      <item itemvalue="Application.TesteVendavel" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TesteVendavel" />
+        <item itemvalue="Application.TesteCalculavel" />
+        <item itemvalue="Application.TesteTemperatura" />
+        <item itemvalue="Application.TesteTabuada" />
+        <item itemvalue="Application.TesteSala" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,11 +207,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1720813634429</updated>
-      <workItem from="1720813635644" duration="3000" />
+      <workItem from="1720813635644" duration="9774000" />
+      <workItem from="1720840370857" duration="6854000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/br/com/alura/exercicios/primos/TestePrimo.java</url>
+          <line>3</line>
+          <properties class="br.com.alura.exercicios.primos.TestePrimo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

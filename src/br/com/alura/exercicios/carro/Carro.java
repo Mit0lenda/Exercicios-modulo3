@@ -1,4 +1,4 @@
-package br.com.alura.exercicios;public class Carro {
+package br.com.alura.exercicios.carro;public class Carro {
     private String modelo;
     private  double precoAno1;
     private  double precoAno2;

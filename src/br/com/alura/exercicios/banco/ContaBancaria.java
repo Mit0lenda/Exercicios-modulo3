@@ -1,4 +1,4 @@
-package br.com.alura.exercicios;
+package br.com.alura.exercicios.banco;
 
 public class ContaBancaria {
     public double saldo ;

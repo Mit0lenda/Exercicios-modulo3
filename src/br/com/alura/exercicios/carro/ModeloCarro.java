@@ -1,4 +1,4 @@
-package br.com.alura.exercicios;
+package br.com.alura.exercicios.carro;
 
-public class ModeloCarro extends Carro{
+public class ModeloCarro extends Carro {
 }
