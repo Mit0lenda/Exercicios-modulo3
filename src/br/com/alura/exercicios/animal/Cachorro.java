@@ -1,6 +1,10 @@
 package br.com.alura.exercicios.animal;
 
 public class Cachorro extends Animal {
+    public Cachorro(String rex) {
+
+    }
+
     @Override
     public void emitirSom() {
         super.emitirSom();

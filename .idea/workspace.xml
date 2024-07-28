@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="42d47f17-6636-4a90-a296-5d44fdf69f66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/animais/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/listas/arrayPessoa/pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/listas/arrayPessoa/principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/produto/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/produto/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/alura/produto/ProdutoPerecivel.java" afterDir="false" />
+    <list default="true" id="42d47f17-6636-4a90-a296-5d44fdf69f66" name="Changes" comment="att">
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/animais/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/animais/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/alura/nomes/Principal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/animais/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/animais/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/exercicios/animal/Cachorro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/animal/Cachorro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/alura/exercicios/animal/TestarAnimais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/alura/exercicios/animal/TestarAnimais.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +64,7 @@
     "Application.TesteTemperatura.executor": "Run",
     "Application.TesteVendavel.executor": "Run",
     "Application.Unnamed.executor": "Run",
+    "Application.br.com.alura.animais.Principal.executor": "Run",
     "Application.principal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -78,7 +79,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Principal">
+  <component name="RunManager" selected="Application.br.com.alura.animais.Principal">
     <configuration name="Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.alura.produto.Principal" />
       <module name="Exercicios-modulo3" />
@@ -112,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteTemperatura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.exercicios.ConversorTemperatura.TesteTemperatura" />
+    <configuration name="TesteVendavel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.exercicios.Vendaval.TesteVendavel" />
       <module name="Exercicios-modulo3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.exercicios.ConversorTemperatura.*" />
+          <option name="PATTERN" value="br.com.alura.exercicios.Vendaval.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TesteVendavel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="br.com.alura.exercicios.Vendaval.TesteVendavel" />
+    <configuration name="br.com.alura.animais.Principal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.animais.Principal" />
       <module name="Exercicios-modulo3" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="br.com.alura.exercicios.Vendaval.*" />
+          <option name="PATTERN" value="br.com.alura.animais.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,18 +155,18 @@
     <list>
       <item itemvalue="Application.TesteCarro" />
       <item itemvalue="Application.Principal" />
+      <item itemvalue="Application.br.com.alura.animais.Principal" />
       <item itemvalue="Application.principal" />
       <item itemvalue="Application.TesteCalculavel" />
-      <item itemvalue="Application.TesteTemperatura" />
       <item itemvalue="Application.TesteVendavel" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.br.com.alura.animais.Principal" />
         <item itemvalue="Application.Principal" />
         <item itemvalue="Application.principal" />
         <item itemvalue="Application.TesteVendavel" />
         <item itemvalue="Application.TesteCalculavel" />
-        <item itemvalue="Application.TesteTemperatura" />
       </list>
     </recent_temporary>
   </component>
@@ -188,12 +189,25 @@
       <workItem from="1720813635644" duration="9774000" />
       <workItem from="1720840370857" duration="7495000" />
       <workItem from="1721235712855" duration="311000" />
-      <workItem from="1722007350354" duration="7557000" />
+      <workItem from="1722007350354" duration="16782000" />
     </task>
+    <task id="LOCAL-00001" summary="att">
+      <option name="closed" value="true" />
+      <created>1722028704023</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722028704024</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="att" />
+    <option name="LAST_COMMIT_MESSAGE" value="att" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
